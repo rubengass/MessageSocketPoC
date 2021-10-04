@@ -1,0 +1,30 @@
+header{
+    background-color: lightgray;
+    vertical-align: middle;
+}
+
+.navbtn{
+    color:white;
+    padding: 12px 6px 12px 6px;;
+}
+
+.rightal{
+    float:right;
+}
+
+.currentsong{
+    background-color: lightgray;
+    border: 1px white solid;
+    border-radius: 3px;
+    text-align: center;
+    margin: 12px 6px 12px 6px;;
+}
+
+.chatdate{
+    height: 10px;
+    font-style: italic;
+}
+.chatmessage{
+    height: 10px;
+    text-align: right;
+}
