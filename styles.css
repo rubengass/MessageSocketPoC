@@ -12,6 +12,9 @@ header{
     float:right;
 }
 
+tr{
+    height:10px;
+}
 .currentsong{
     background-color: lightgray;
     border: 1px white solid;
@@ -24,7 +27,6 @@ header{
     height: 10px;
     font-style: italic;
 }
-.chatmessage{
-    height: 10px;
+.OwnMessage{
     text-align: right;
 }
